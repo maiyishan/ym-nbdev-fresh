@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ym-nbdev-fresh"
+  site-url: "https://maiyishan.github.io/ym-nbdev-fresh"
+  description: "Fresh NBDEV Project"
+  repo-branch: main
+  repo-url: "https://github.com/maiyishan/ym-nbdev-fresh"
